@@ -1,2 +1,2 @@
 ### Hi there 👋
-- Studying development and cybersecurity
+- I'm studying development and cybersecurity
