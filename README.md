@@ -2,3 +2,6 @@
 
 ## Studies
 I'm currently studying **Development** 👨🏻‍💻
+
+## Hard Skills
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,github,git,vscode">
